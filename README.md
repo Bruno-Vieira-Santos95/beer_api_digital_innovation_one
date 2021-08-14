@@ -1,6 +1,8 @@
 <h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
-Nesta live coding, vamos aprender a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Vamos desenvolver testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, vamos também mostrar como desenvolver funcionalidades da nossa API através da prática do TDD.
+Nessa atividade, o expert Rodrigo Peleias faz o passo a passo do Teste Unitário. O objetico foi realizar o teste de uma API de gerenciamento de estoque de cerveja. Foram construidos teste que validaram o sistema que foi feito em Spring Boot alé, é claro, de mostra como funciona o Junit e o Mockito e também sobre o TDD.
+
+Meu Aprendizado: Nesse projeto tive a oportunidade de ver na prática o que tinha visto nos cursos e nas mentoria algo novo, que nunca tinha visto com tantos detalhes. Ficou mais claro os conceito e a importância de se realizar os testes. Isso é um ótima maneira de documentar o projeto.
 
 Durante a sessão, serão abordados os seguintes tópicos:
 
